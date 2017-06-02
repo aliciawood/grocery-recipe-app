@@ -14,6 +14,7 @@ Compile
  
 ```
 npm run compile
+```
 
 
 Run
@@ -21,3 +22,4 @@ Run
  
 ```
 npm run
+```
